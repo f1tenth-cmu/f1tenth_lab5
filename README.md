@@ -49,6 +49,6 @@ To visualize the list of waypoints you have, and to visualize the current waypoi
 - Running slam_toolbox and producing a map: **10** Points
 - Running particle_filter: **10** Points
 - Implementing pure pursuit: **10** Points
-- Submitted pure pursuit in sim but didn't visualize waypoints: -2
-- Has video of physical car running pure pursuit but no accompanying rviz: -2 
 - Video: **10** Points
+- Submitted pure pursuit in sim but didn't visualize waypoints: **-2** points
+- Has video of physical car running pure pursuit but no accompanying rviz: **-2** points

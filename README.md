@@ -41,12 +41,14 @@ To visualize the list of waypoints you have, and to visualize the current waypoi
 ## VII. Deliverables
 
 - **Deliverable 1**: Submit the map files ai_makerspace.pgm and ai_makerspace.yaml) that you've made using `slam_toolbox`.
-- **Deliverable 2**: Submit your code on Canvas. Your submitted code should run smoothly in simulation.
-- **Deliverable 3**: Submit a link to a video on YouTube showing the real car following waypoints in or near AI makerspace. Show a screen recording of rviz. 
+- **Deliverable 2**: Submit your code and a screen recording of your Pure Pursuit running in simulation. Visualize the both the waypoint your car is tracking at any point in time as well as the entire set of waypoints. 
+- **Deliverable 3**: Submit a link to a video on YouTube showing the real car following waypoints in or near AI makerspace. Show the car in rviz at the same time. 
 
 ## VIII: Grading Rubric
 - Compilation: **5** Points
 - Running slam_toolbox and producing a map: **10** Points
 - Running particle_filter: **10** Points
 - Implementing pure pursuit: **10** Points
+- Submitted pure pursuit in sim but didn't visualize waypoints: -2
+- Has video of physical car running pure pursuit but no accompanying rviz: -2 
 - Video: **10** Points
